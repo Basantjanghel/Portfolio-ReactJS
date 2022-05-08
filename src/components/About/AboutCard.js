@@ -11,8 +11,8 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple"> Basant Janghel </span>
             from <span className="purple"> Chhattisgarh, India.</span>
             <br />
-            I am a B.Tech. Graduate from Computer Science and Engineering branch
-            and currently working as a Software Development Engineer at Shoopy.
+            I am a B.Tech. Graduate in Computer Science and currently working as
+            a Software Development Engineer at Shoopy.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -29,10 +29,10 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          {/* <p style={{ color: "rgb(155 126 172)" }}>
             "No one is YOU and that is your Power !"{" "}
           </p>
-          <footer className="blockquote-footer">Basant</footer>
+          <footer className="blockquote-footer">Basant</footer> */}
         </blockquote>
       </Card.Body>
     </Card>
